@@ -1,0 +1,17 @@
+#story {
+  width: 100%;
+  height: 150px;
+  background: skyblue;
+}
+.button {
+  width: 200px;
+  height: 30px;
+  border: solid;
+  float:left;
+}
+#opt1 {
+  background: red;
+}
+#opt2 {
+  background: green;
+}
